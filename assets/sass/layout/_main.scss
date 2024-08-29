@@ -1,0 +1,32 @@
+/*..................Estilos contenido Presentación...................... */
+#presentacion {
+    font-family:$font-family;
+
+    img {
+        width: 85%;
+    }
+}
+
+#destacados {
+    font-family:$font-family;
+}
+
+
+
+.card-body {
+    font-family:$font-family;
+    color:$secondary;
+}
+
+.card {
+    img {
+        object-fit: cover;
+        height: 100%;
+    }
+}
+
+
+
+
+
+
